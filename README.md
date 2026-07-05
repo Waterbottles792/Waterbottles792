@@ -1,43 +1,64 @@
 # Vikram
 
-Undergraduate Cybersecurity Student | Artificial Intelligence | Cloud Security | Security Research
+**Undergraduate Cybersecurity Student**
+**Artificial Intelligence • Cybersecurity • Cloud Security**
 
-I am an undergraduate cybersecurity student with a strong interest in building secure systems and applying artificial intelligence to solve real-world security challenges. My work focuses on offensive security, AI-driven security automation, cloud technologies, and secure software development. I enjoy researching complex security problems, developing practical tools, and continuously expanding my knowledge across modern security domains.
+I am an undergraduate cybersecurity student passionate about building secure systems, researching application security, and leveraging artificial intelligence to solve real-world security challenges. My interests span offensive security, AI-powered security automation, cloud security, and secure software engineering. I enjoy designing practical security tools, contributing to open-source projects, and continuously learning modern technologies that strengthen organizational security.
 
 ---
 
-## About
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Waterbottles792&show_icons=true&count_private=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Waterbottles792&theme=github-dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waterbottles792&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Waterbottles792&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## About Me
 
 * Undergraduate Cybersecurity Student
 * Security Researcher
 * AI for Cybersecurity Enthusiast
 * Cloud Security Learner
+* Open Source Contributor
+* Passionate about building practical security solutions
 
 ---
 
-## Current Focus
+## Areas of Interest
 
 * Artificial Intelligence for Cybersecurity
-* Web Application Security
+* Application Security
+* Web Security
 * API Security
 * Cloud Security
+* DevSecOps
+* Identity & Access Management
 * Security Automation
+* Detection Engineering
 * Secure Software Development
-* Bug Bounty Research
 
 ---
 
 ## Technical Skills
 
-### Programming
+### Programming Languages
 
 * Python
-* C
 * C++
-* Java
 * JavaScript
-* Terraform
-* Golang
+* HTML
+* CSS
 * Bash
 
 ### Cybersecurity
@@ -45,17 +66,16 @@ I am an undergraduate cybersecurity student with a strong interest in building s
 * Web Application Security
 * API Security Testing
 * Authentication & Authorization Testing
-* OWASP Top 10 , OWASP Top 10 for LLMs
 * Vulnerability Assessment
 * Security Research
 * Bug Bounty Methodology
+* OWASP Top 10
 * Threat Modeling
 * Security Automation
 
 ### Security Tools
 
 * Burp Suite
-* Caido
 * Nmap
 * Wireshark
 * FFUF
@@ -63,14 +83,24 @@ I am an undergraduate cybersecurity student with a strong interest in building s
 * Amass
 * SQLMap
 * XSStrike
-* John the Ripper
 * Metasploit
+* John the Ripper
 * CyberChef
 * Shodan
 * Git
 * GitHub
 
-### Cloud & Infrastructure
+### Artificial Intelligence
+
+* Large Language Models (LLMs)
+* AI Agents
+* Prompt Engineering
+* AI Workflow Automation
+* OpenAI
+* Gemini
+* Groq
+
+### Cloud & DevOps
 
 * Amazon Web Services (AWS)
 * Docker
@@ -79,81 +109,61 @@ I am an undergraduate cybersecurity student with a strong interest in building s
 * GitHub Actions
 * CI/CD Fundamentals
 
-### Artificial Intelligence
-
-* Large Language Models (LLMs)
-* AI Agent Development
-* Prompt Engineering
-* AI Workflow Automation
-* Gemini
-* Groq
-
----
-
-## Areas of Interest
-
-* Artificial Intelligence for Security Operations
-* Offensive Security
-* Application Security
-* Cloud Security
-* Identity and Access Management
-* Security Engineering
-* Secure Software Architecture
-* Threat Detection and Response
-
 ---
 
 ## Featured Projects
 
 ### Agentic SOC Analyst
 
-An AI-powered security operations assistant designed to assist analysts with threat hunting, investigation, and incident analysis by integrating large language models with Microsoft Sentinel and Azure Log Analytics.
+An AI-powered Security Operations assistant designed to support threat hunting and investigation by integrating Large Language Models with Microsoft Sentinel and Azure Log Analytics.
 
 ### Aide
 
-A cybersecurity-focused AI assistant built to support learners and security professionals through guided learning, CTF assistance, terminal-aware interactions, and multiple AI provider integrations.
+A cybersecurity-focused AI assistant that provides guided learning, terminal-aware assistance, CTF support, and multiple AI provider integrations for aspiring security professionals.
 
 ### OAuth 2.1 & OpenID Connect Authorization Platform
 
-A secure authentication platform implementing modern identity standards with strong authentication practices and secure credential handling.
+A modern authentication platform implementing OAuth 2.1 and OpenID Connect with secure authentication practices and strong credential protection.
 
 ### DocAPI
 
-A document extraction platform that converts unstructured documents into structured data for AI agents and intelligent automation workflows.
+A document extraction platform that transforms unstructured documents into structured data for AI agents and intelligent automation workflows.
 
 ---
 
 ## Research Interests
 
 * AI-Augmented Security Operations
-* Secure AI Systems
 * Agentic Security
+* AI Security
+* Offensive Security
 * Cloud-Native Security
-* API Security
 * Identity Security
-* Vulnerability Research
-* Security Automation
+* Secure AI Systems
 * Infrastructure as Code Security
-
----
-
-## Professional Goals
-
-I am committed to building expertise at the intersection of cybersecurity, artificial intelligence, and cloud technologies. My objective is to contribute to the development of secure, intelligent systems that improve threat detection, automate security workflows, and strengthen the security posture of modern organizations.
+* Security Engineering
 
 ---
 
 ## Currently Learning
 
-* Advanced Web Security
+* Advanced Web Application Security
 * Cloud Security Architecture
+* DevSecOps
+* Detection Engineering
+* Infrastructure as Code
+* Kubernetes Security
 * AI Security
 * Secure AI Agent Development
-* Infrastructure as Code
-* Detection Engineering
+
+---
+
+## Professional Objective
+
+My goal is to build expertise at the intersection of cybersecurity, artificial intelligence, and cloud technologies by developing intelligent security solutions, conducting impactful security research, and contributing to open-source projects that advance modern cyber defense.
 
 ---
 
 ## Connect
 
-I am always interested in collaborating on cybersecurity, AI, cloud security, and open-source projects, as well as engaging in technical discussions and security research.
+I am always interested in collaborating on cybersecurity, artificial intelligence, cloud security, and open-source projects. Feel free to connect for technical discussions, research collaborations, or innovative security initiatives.

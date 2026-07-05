@@ -51,7 +51,7 @@ I enjoy researching application security, developing practical security tools, a
 ## Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,terraform,cpp,js,bash,golang" />
+<img src="https://skillicons.dev/icons?i=python,c,terraform,cpp,java,js,bash,golang" />
 </p>
 
 ## Artificial Intelligence
@@ -78,10 +78,6 @@ I enjoy researching application security, developing practical security tools, a
 
 ## Security Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,aws,terraform,vscode" />
-</p>
-
 * Burp Suite
 * Nmap
 * Wireshark
@@ -104,7 +100,6 @@ I enjoy researching application security, developing practical security tools, a
 * Agentic Security
 * Application Security
 * Cloud Security
-* DevSecOps
 * Offensive Security
 * Security Engineering
 * Detection Engineering
@@ -143,9 +138,7 @@ A document extraction platform that converts unstructured documents into structu
 
 * Advanced Web Application Security
 * Cloud Security Architecture
-* DevSecOps
 * Detection Engineering
-* Kubernetes Security
 * Infrastructure as Code
 * AI Security
 * Secure AI Agent Development

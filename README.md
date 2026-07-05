@@ -51,7 +51,7 @@ I enjoy researching application security, developing practical security tools, a
 ## Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,bash,html,css" />
+<img src="https://skillicons.dev/icons?i=python,c,terraform,cpp,js,bash,golang" />
 </p>
 
 ## Artificial Intelligence

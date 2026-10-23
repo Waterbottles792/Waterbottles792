@@ -2,14 +2,11 @@
 
 # Vikram
 
-**Cybersecurity Student · AI Security · Cloud Security**
+**AI × Cybersecurity**
 
-Building intelligent security tools at the intersection of AI, offensive security, and the cloud.
+Building AI systems that secure, and securing the AI systems we build.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-URL)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [Portfolio](https://YOUR-PORTFOLIO-URL) · [X](https://x.com/YOUR-HANDLE) · [Email](mailto:YOUR-EMAIL)
 
 </div>
 
@@ -17,32 +14,44 @@ Building intelligent security tools at the intersection of AI, offensive securit
 
 ### About
 
-Undergraduate cybersecurity student focused on application security, AI-powered security automation, and secure cloud infrastructure. I build practical tools that make security operations faster and smarter.
+Undergraduate cybersecurity student working where artificial intelligence and security meet. I work on two sides of the same problem. One is using LLMs and autonomous agents to automate threat detection, investigation and response. The other is finding and fixing the new attack surfaces that AI systems themselves introduce.
+
+### What I Work On
+
+**AI for Security** — LLM-driven SOC automation, agentic threat hunting, and intelligent security tooling
+
+**Security for AI** — Prompt injection, agent security, LLM application security, and secure AI system design
+
+**Core Security** — Web & API security, OWASP Top 10, IAM, threat modeling, and cloud security
 
 ### Featured Projects
 
-| Project | Description |
-|---|---|
-| **Agentic SOC Analyst** | LLM-powered assistant for threat hunting and incident investigation, integrated with Microsoft Sentinel and Azure Log Analytics. |
-| **Aide** | Cybersecurity AI assistant with guided learning, terminal-aware help, CTF support, and multi-provider LLM integration. |
-| **OAuth 2.1 & OIDC Platform** | Authorization platform implementing OAuth 2.1 and OpenID Connect with modern security practices. |
-| **DocAPI** | Converts unstructured documents into structured data for AI agents and automation workflows. |
+**Agentic SOC Analyst**
+An AI agent for threat hunting and incident investigation. It integrates LLMs with Microsoft Sentinel and Azure Log Analytics.
 
-### Tech Stack
+**Aide**
+A cybersecurity AI assistant with guided learning, terminal-aware help, CTF support, and integration with multiple LLM providers.
 
-<img src="https://skillicons.dev/icons?i=python,go,c,cpp,java,js,bash,terraform" />
+**OAuth 2.1 & OpenID Connect Platform**
+An authorization platform built to modern security standards for authentication and access control.
 
-- **Security:** Web & API security, OWASP Top 10, threat modeling, vulnerability assessment, IAM
-- **AI:** LLMs, AI agents, prompt engineering, workflow automation (OpenAI, Gemini, Groq)
-- **Tools:** Burp Suite, Nmap, Wireshark, Metasploit, FFUF, Amass, SQLMap, Shodan
+**DocAPI**
+A document extraction engine that turns unstructured documents into structured data for AI agents.
 
-### Current Focus
+### Toolkit
 
-Detection engineering · Cloud security architecture · Infrastructure as Code security · Securing AI agents
+**Languages:** Python, Go, C/C++, Java, JavaScript, Bash, Terraform
+**AI:** LLMs, AI Agents, Prompt Engineering, OpenAI, Gemini, Groq
+**Security:** Burp Suite, Nmap, Wireshark, Metasploit, FFUF, Amass, SQLMap, Shodan
+
+### Currently Exploring
+
+Securing autonomous AI agents · AI-augmented detection engineering · Cloud security architecture · Infrastructure as Code security
 
 ---
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Waterbottles792&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waterbottles792&layout=compact&theme=github_dark&hide_border=true" />
+
+*Open to collaborating on AI security, security automation, and open-source projects.*
+
 </div>

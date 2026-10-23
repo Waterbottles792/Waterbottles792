@@ -2,176 +2,47 @@
 
 # Vikram
 
-### Undergraduate Cybersecurity Student | Artificial Intelligence | Cybersecurity | Cloud Security
+**Cybersecurity Student · AI Security · Cloud Security**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;Artificial+Intelligence;Cloud+Security;Security+Research;AI-Powered+Security+Solutions;Offensive+Security;Open+Source+Contributor" alt="Typing SVG"/>
+Building intelligent security tools at the intersection of AI, offensive security, and the cloud.
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/YOUR-HANDLE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 
 </div>
 
 ---
 
-# About Me
+### About
 
-I am an undergraduate cybersecurity student with a strong interest in building secure systems and applying Artificial Intelligence to modern cybersecurity challenges. My work focuses on offensive security, AI-powered security automation, cloud technologies, and secure software engineering.
+Undergraduate cybersecurity student focused on application security, AI-powered security automation, and secure cloud infrastructure. I build practical tools that make security operations faster and smarter.
 
-I enjoy researching application security, developing practical security tools, and contributing to projects that improve security operations through automation and intelligent systems.
+### Featured Projects
 
----
+| Project | Description |
+|---|---|
+| **Agentic SOC Analyst** | LLM-powered assistant for threat hunting and incident investigation, integrated with Microsoft Sentinel and Azure Log Analytics. |
+| **Aide** | Cybersecurity AI assistant with guided learning, terminal-aware help, CTF support, and multi-provider LLM integration. |
+| **OAuth 2.1 & OIDC Platform** | Authorization platform implementing OAuth 2.1 and OpenID Connect with modern security practices. |
+| **DocAPI** | Converts unstructured documents into structured data for AI agents and automation workflows. |
 
-# GitHub Statistics
+### Tech Stack
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Waterbottles792&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img src="https://skillicons.dev/icons?i=python,go,c,cpp,java,js,bash,terraform" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=Waterbottles792&theme=github-dark&hide_border=true"/>
-</p>
+- **Security:** Web & API security, OWASP Top 10, threat modeling, vulnerability assessment, IAM
+- **AI:** LLMs, AI agents, prompt engineering, workflow automation (OpenAI, Gemini, Groq)
+- **Tools:** Burp Suite, Nmap, Wireshark, Metasploit, FFUF, Amass, SQLMap, Shodan
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waterbottles792&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+### Current Focus
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Waterbottles792&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-# Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Waterbottles792/Waterbottles792/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+Detection engineering · Cloud security architecture · Infrastructure as Code security · Securing AI agents
 
 ---
 
-# Technical Skills
-
-## Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,terraform,cpp,java,js,bash,golang" />
-</p>
-
-## Artificial Intelligence
-
-* Large Language Models (LLMs)
-* AI Agents
-* Prompt Engineering
-* AI Workflow Automation
-* OpenAI
-* Gemini
-* Groq
-
-## Cybersecurity
-
-* Web Application Security
-* API Security
-* Authentication & Authorization
-* Vulnerability Assessment
-* Security Research
-* Bug Bounty Methodology
-* OWASP Top 10
-* Threat Modeling
-* Security Automation
-
-## Security Tools
-
-* Burp Suite
-* Nmap
-* Wireshark
-* FFUF
-* Gobuster
-* Amass
-* SQLMap
-* XSStrike
-* Metasploit
-* John the Ripper
-* CyberChef
-* Shodan
-
----
-
-# Areas of Interest
-
-* Artificial Intelligence for Cybersecurity
-* AI Security
-* Agentic Security
-* Application Security
-* Cloud Security
-* Offensive Security
-* Security Engineering
-* Detection Engineering
-* Identity & Access Management
-* Infrastructure as Code Security
-
----
-
-# Featured Projects
-
-## Agentic SOC Analyst
-
-An AI-powered Security Operations assistant that integrates Large Language Models with Microsoft Sentinel and Azure Log Analytics to support threat hunting and incident investigation.
-
----
-
-## Aide
-
-A cybersecurity-focused AI assistant providing guided learning, terminal-aware assistance, CTF support, and multiple AI provider integrations.
-
----
-
-## OAuth 2.1 & OpenID Connect Authorization Platform
-
-A modern authentication platform implementing OAuth 2.1 and OpenID Connect with secure authentication and authorization practices.
-
----
-
-## DocAPI
-
-A document extraction platform that converts unstructured documents into structured data for AI agents and intelligent automation workflows.
-
----
-
-# Currently Learning
-
-* Advanced Web Application Security
-* Cloud Security Architecture
-* Detection Engineering
-* Infrastructure as Code
-* AI Security
-* Secure AI Agent Development
-
----
-
-# Research Interests
-
-* AI-Augmented Security Operations
-* Agentic Security
-* Cloud-Native Security
-* Offensive Security
-* Identity Security
-* Secure Software Engineering
-* Secure AI Systems
-* Threat Detection
-* Security Automation
-
----
-
-# Professional Objective
-
-My goal is to build expertise at the intersection of Artificial Intelligence, Cybersecurity, and Cloud Computing by developing intelligent security solutions, conducting impactful security research, and contributing to technologies that strengthen the security posture of modern organizations.
-
----
-
-# Connect
-
-I am always interested in collaborating on cybersecurity, artificial intelligence, cloud security, and open-source projects.
-
-* LinkedIn
-* Portfolio
-* X (Twitter)
-* Email
-
----
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Waterbottles792&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waterbottles792&layout=compact&theme=github_dark&hide_border=true" />
+</div>
